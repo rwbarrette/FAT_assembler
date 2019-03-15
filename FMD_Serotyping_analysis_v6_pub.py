@@ -1092,8 +1092,8 @@ def Build_FINAL_Consensus2(ResultTableName):
 HOSTlocal = "localhost"
 HOSTremote = "localhost"
 DB = "fmdserotyping"
-USER = "root"
-PASS = "Piobmare,774"
+USER = <user>
+PASS = <password>
 ComputerID = "rbarrette"
 AlignCNT = 0
 WorkingDir = "/users/rwbarrettemac/bioinformatics/pythonfolders/TorrentFiles/"
